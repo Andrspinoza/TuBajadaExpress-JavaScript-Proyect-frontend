@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="container nav-container">
         <Link to="/" className="nav-brand">
           <span className="brand-icon">🥡</span>
-          <span className="brand-text">Tubajada Express</span>
+          <span className="brand-text">Tu Bajada Express</span>
         </Link>
 
         {/* Desktop Menu */}
